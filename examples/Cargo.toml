@@ -2,6 +2,7 @@
 resolver = "2"
 members = [
   "bevy",
+  "fib",
   "browser-verify",
   "chess",
   "chess/core",
